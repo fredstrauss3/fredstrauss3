@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fredstrauss3
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on open source projects
